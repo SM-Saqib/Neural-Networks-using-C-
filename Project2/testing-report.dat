@@ -1,0 +1,10 @@
+Sample 1: YES. Label = 7. Predict = 7. Error = 6.06632e-08
+Sample 2: YES. Label = 2. Predict = 2. Error = 5.82755e-05
+Sample 3: YES. Label = 1. Predict = 1. Error = 1.79148e-07
+Sample 4: YES. Label = 0. Predict = 0. Error = 2.21161e-05
+Sample 5: YES. Label = 4. Predict = 4. Error = 6.73983e-05
+Sample 6: YES. Label = 1. Predict = 1. Error = 2.7605e-05
+Sample 7: YES. Label = 4. Predict = 4. Error = 0.000167881
+Sample 8: YES. Label = 9. Predict = 9. Error = 9.13354e-05
+Sample 9: NO.  Label = 5. Predict = 6. Error = 0.672923
+Sample 10: YES. Label = 9. Predict = 9. Error = 0.00097476
